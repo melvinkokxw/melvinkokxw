@@ -22,7 +22,15 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
 
 <hr>
 
-<strong>Statistics</strong>
+<strong>🕒 WakaTime statistics</strong>
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<hr>
+
+<strong>:octocat: GitHub statistics</strong>
 <br>
 
 <p>
@@ -33,7 +41,6 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinkokxw&hide=jupyter%20notebook&theme=dark&layout=compact"  height=140>
   </a>
 </p>
-
 
 <!--
 **melvinkokxw/melvinkokxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
