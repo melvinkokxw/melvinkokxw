@@ -11,6 +11,12 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
 <a href="https://github.com/melvinkokxw/improving-dl-accuracy-gan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=melvinkokxw&repo=improving-dl-accuracy-gan&theme=dark" height=120>
 </a>
+
+<strong>📫 How to reach me </strong>
+   
+   1. [email](mailto:melvinkokxw@gmail.com) (recommended!)
+   2. [linkedin](https://www.linkedin.com/in/melvinkokxw) (connect with me!)
+   3. [facebook](https://www.facebook.com/melvinkokxw) (not recommended, but it works)
 <!--
 **melvinkokxw/melvinkokxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
