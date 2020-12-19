@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Hello! I'm Melvin! 👋</h2>
+
+My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 and currently studying at NTU, majoring in Electrical & Electronic Engineering. Apart from coding, I also love hitting the gym and fermenting food. 
 
 <!--
 **melvinkokxw/melvinkokxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
