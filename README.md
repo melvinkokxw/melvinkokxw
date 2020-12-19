@@ -2,6 +2,15 @@
 
 My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 and currently studying at NTU, majoring in Electrical & Electronic Engineering. Apart from coding, I also love hitting the gym and fermenting food. 
 
+<strong>🔭 Currently focusing on...</strong>
+
+<a href="https://github.com/melvinkokxw/stroustrup-ppp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=melvinkokxw&repo=stroustrup-ppp" width=350>
+</a>
+
+<a href="https://github.com/melvinkokxw/improving-dl-accuracy-gan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=melvinkokxw&repo=improving-dl-accuracy-gan" width=350>
+</a>
 <!--
 **melvinkokxw/melvinkokxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
