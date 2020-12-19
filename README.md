@@ -17,6 +17,22 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
    1. [email](mailto:melvinkokxw@gmail.com) (recommended!)
    2. [linkedin](https://www.linkedin.com/in/melvinkokxw) (connect with me!)
    3. [facebook](https://www.facebook.com/melvinkokxw) (not recommended, but it works)
+
+<hr>
+
+<strong>Statistics</strong>
+<br>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=melvinkokxw&show_icons=true&theme=dark&hide=stars"  height=140>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinkokxw&hide=jupyter%20notebook&theme=dark&layout=compact"  height=140>
+  </a>
+</p>
+
+
 <!--
 **melvinkokxw/melvinkokxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
