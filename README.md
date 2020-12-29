@@ -32,18 +32,16 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C++                      40 mins             ████████████████████░░░░░   82.02% 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-programming_principles_an40 mins             ████████████████████░░░░░   82.02% 
-melvinkokxw              8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
