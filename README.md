@@ -32,16 +32,18 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Swift                    44 mins             ███████████████████░░░░░░   77.94% 
+Cocoa                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   22.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Xcode                    56 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pokedex                  41 mins             ██████████████████░░░░░░░   72.56% 
+SwiftExample             15 mins             ██████░░░░░░░░░░░░░░░░░░░   27.44%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.0%
 
 ```
 
