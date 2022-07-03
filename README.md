@@ -28,7 +28,9 @@ My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 an
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   12 mins         █████████████░░░░░░░░░░░░   51.39 %
+Python     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Other      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
 ```
 
 <!--END_SECTION:waka-->
