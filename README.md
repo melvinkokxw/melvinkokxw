@@ -1,23 +1,12 @@
 <h2>Hello! I'm Melvin! 👋</h2>
 
-My name is Melvin Kok and I'm a software engineer. I'm from Singapore🇸🇬 and currently studying at NTU, majoring in Electrical & Electronic Engineering. Apart from coding, I also love hitting the gym and fermenting food. 
-
-<strong>🔭 Currently focusing on...</strong>
-
-<p>
-    <a href="https://github.com/melvinkokxw/stroustrup-ppp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=melvinkokxw&repo=stroustrup-ppp&theme=dark" height=120>
-    </a>
-    <a href="https://github.com/melvinkokxw/improving-dl-accuracy-gan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=melvinkokxw&repo=improving-dl-accuracy-gan&theme=dark" height=120>
-    </a>
-</p>
+My name is Melvin Kok and I'm a data engineer from Singapore🇸🇬
 
 
 <strong>📫 How to reach me </strong>
    
-   1. [email](mailto:melvinkokxw@gmail.com) (recommended!)
-   2. [linkedin](https://www.linkedin.com/in/melvinkokxw) (connect with me!)
+   1. [linkedin](https://www.linkedin.com/in/melvinkokxw) (recommended!)
+   2. [email](mailto:melvinkokxw@gmail.com) (sometimes I check it)
    3. [facebook](https://www.facebook.com/melvinkokxw) (not recommended, but it works)
 
 <hr>
