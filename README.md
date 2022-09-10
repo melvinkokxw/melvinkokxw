@@ -7,5 +7,3 @@ My name is Melvin Kok and I'm a Data Engineer from Singapore🇸🇬
    
    1. [linkedin](https://www.linkedin.com/in/melvinkokxw) (recommended!)
    2. [email](mailto:melvinkokxw@gmail.com) (sometimes I check it)
-
-<hr>
